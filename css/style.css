@@ -1,0 +1,610 @@
+.WebStudio {
+    text-decoration: none;
+  
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+  
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+  
+    color: #2196f3;
+  }
+  .logo_2_element {
+    color: rgb(0, 0, 1);
+  }
+  .menu_nav {
+    position: absolute;
+    width: 294px;
+    height: 16px;
+    left: 453px;
+    top: 16px;
+    display: flex;
+    padding: 0px 0px 0px 35px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  li {
+    padding: 0px 0px 0px 35px;
+    text-decoration: none;
+    list-style: none;
+  }
+  .studio {
+    color: #2196f3;
+  }
+  .mail {
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    text-decoration: none;
+    color: #2196f3;
+  }
+  .tel {
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+    text-decoration: none;
+    color: #757575;
+  }
+  .Bg {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+  
+    background: #2f303a;
+  }
+  .text_Bg {
+    position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 200px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+  
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  
+    color: #ffffff;
+  }
+  .service {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 530px;
+  
+    background: #2196f3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    border: none;
+  }
+  .text_service {
+    position: relative;
+    left: 20px;
+    text-decoration: none;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+  
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+  
+    color: #ffffff;
+  }
+  .peculiarities {
+    position: absolute;
+    width: 1170px;
+    height: 101px;
+    left: 215px;
+    top: 774px;
+  }
+  .pecu_bottom_1 {
+    width: 270px;
+    height: 75px;
+    left: 215px;
+    top: 800px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+  
+    color: #757575;
+  }
+  .pecu_bottom_2 {
+    position: relative;
+    width: 270px;
+    height: 75px;
+    left: 280px;
+    bottom: 125px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+    color: black;
+  }
+  .top_pecu_2 {
+    position: relative;
+    bottom: 120px;
+    left: 280px;
+  }
+  .pecu_bottom_3 {
+    position: relative;
+    width: 270px;
+    height: 75px;
+    left: 560px;
+    bottom: 250px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+    color: black;
+  }
+  .top_pecu_3 {
+    position: relative;
+    bottom: 240px;
+    left: 560px;
+  }
+  .pecu_bottom_4 {
+    position: relative;
+    width: 270px;
+    height: 75px;
+    left: 840px;
+    bottom: 375px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+    color: black;
+  }
+  .top_pecu_4 {
+    position: relative;
+    bottom: 360px;
+    left: 840px;
+  }
+  .What_are_we_doing {
+    position: absolute;
+    width: 376px;
+    height: 42px;
+    left: 612px;
+    top: 969px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+  }
+  .wawd1 {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 215px;
+    top: 1061px;
+  }
+  .wawd2 {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 1061px;
+  }
+  .wawd3 {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 1061px;
+  }
+  .Our_team {
+    position: absolute;
+    width: 264px;
+    height: 42px;
+    left: 668px;
+    top: 1543px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #212121;
+  }
+  .hum_1 {
+    position: absolute;
+    width: 270px;
+    height: 260px;
+  }
+  .hum_2 {
+    position: absolute;
+    width: 270px;
+    height: 260px;
+  }
+  .hum_3 {
+    position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 815px;
+    top: 1635px;
+  }
+  .hum_4 {
+    position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 1115px;
+    top: 1635px;
+  }
+  .obh_1 {
+    background-position: 0%;
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 215px;
+    top: 1635px;
+  
+    background: #ffffff;
+    /* material shadow v1 */
+  
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+      0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+  }
+  .name_Igor_Demyanenko {
+    position: absolute;
+    height: 19px;
+    top: 270px;
+    width: 200px;
+    left: 35px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #212121;
+  }
+  .sub_name_Igor_Demyanenko {
+    position: absolute;
+    width: 150px;
+    height: 19px;
+    left: 60px;
+    top: 300px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #757575;
+  }
+  .obh_2 {
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 515px;
+    top: 1635px;
+  
+    /* material shadow v1 */
+  
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+      0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+  }
+  .hum_2 {
+    position: absolute;
+    width: 270px;
+    height: 260px;
+  
+    border-radius: 0px;
+  }
+  .name_olga {
+    position: absolute;
+    height: 19px;
+    top: 270px;
+    width: 200px;
+    left: 35px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #212121;
+  }
+  .work_olga {
+    position: absolute;
+    height: 19px;
+    width: 200px;
+    left: 35px;
+    top: 300px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #757575;
+  }
+  .obh_3 {
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 815px;
+    top: 1635px;
+  
+    /* material shadow v1 */
+  
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+      0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+  }
+  .name_nikolay {
+    position: absolute;
+    width: 200px;
+    left: 35px;
+    height: 19px;
+    top: 270px;
+    left: 40px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #212121;
+  }
+  .hum_3 {
+    position: static;
+    width: 270px;
+    height: 260px;
+  
+    border-radius: 0px;
+  }
+  .work_nikolay {
+    position: absolute;
+    width: 100px;
+    height: 19px;
+    left: 90px;
+    top: 300px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #757575;
+  }
+  .obh_4 {
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 1115px;
+    top: 1635px;
+  
+    background: #ffffff;
+    /* material shadow v1 */
+  
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+      0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+  }
+  .hum_4 {
+    position: static;
+  }
+  .name_miha {
+    position: absolute;
+    height: 19px;
+    width: 200px;
+    left: 35px;
+    top: 270px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #212121;
+  }
+  .work_miha {
+    position: absolute;
+    width: 100px;
+    height: 19px;
+    left: 95px;
+    top: 300px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #757575;
+  }
+  .footer {
+    position: absolute;
+    width: 100%;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+  
+    background: #2f303a;
+  }
+  .footer_logo {
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    text-decoration: none;
+    left: 215px;
+    top: 60px;
+  
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+  
+    letter-spacing: 0.03em;
+  
+    color: #2196f3;
+  }
+  .address {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    top: 111px;
+    left: 215px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+  
+    color: #ffffff;
+  }
+  .mail_footer {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    top: 150px;
+    left: 215px;
+    text-decoration: none;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+    transform: 0.5s;
+  
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .tel_footer {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 171px;
+    text-decoration: none;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+    transition: 0.5s;
+  
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .port {
+    text-decoration: none;
+    color: #000000;
+    transition: 0.5s;
+  }
+  .port:hover {
+    color: #2196f3;
+  }
+  .tel_footer:hover {
+    color: #2196f3;
+  }
+  .mail_footer:hover {
+    color: #2196f3;
+  }
